@@ -1,6 +1,6 @@
 This repository contains all the source code installed on the ario lamp including the base firmware for the particle device as well as the application code for powering the lamp itself.
 
-
+Please regard the schematic to understand how to wire up your stem - the circuit board inside your lamp - to flash new firmware to it. Please see the particle website to download the particle CLI and df-util, which can be used to flash directly to your lamp.
 
 Note regarding Warranty Support:
 
