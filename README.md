@@ -4,7 +4,7 @@ Please regard the schematic to understand how to wire up your stem - the circuit
 
 Note regarding Warranty Support:
 
-Disassembling your Ario lamp, modifying it or the firmware in any way voids your warranty.
+Disassembling your Ario lamp or modifying the firmware on it voids your warranty.
 
 Download and use the following firmware only if you feel you have the skill to do so. We are not able to support any products that have been modified in any way by our end users without a fee. 
 
