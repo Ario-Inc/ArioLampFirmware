@@ -6,6 +6,6 @@ Note regarding Warranty Support:
 
 Disassembling your Ario lamp or modifying the firmware on it voids your warranty.
 
-Download and use the following firmware only if you feel you have the skill to do so. We are not able to support any products that have been modified in any way by our end users without a fee. 
+Download and use the following firmware only if you feel you have the skill to do so. Ario cannot support any products that have been modified in any way by our end users without a fee. 
 
 
